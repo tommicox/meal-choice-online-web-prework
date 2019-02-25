@@ -5,3 +5,6 @@ def meal_choice(choice="meat")
 end
 
 puts meal_choice("chicken")
+puts meal_choice("beef")
+puts meal_choice("tofu")
+puts meal_choice("duck")

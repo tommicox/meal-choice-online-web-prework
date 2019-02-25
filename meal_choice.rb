@@ -4,8 +4,4 @@ def meal_choice(choice="meat")
   return choice
 end
 
-my_boolean = true
-x = false
-
-puts my_boolean
-puts x
+puts meal_choice("chicken")
